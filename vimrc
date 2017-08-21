@@ -7,6 +7,10 @@ Plug 'airblade/vim-gitgutter'
 Plug 'kien/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'rking/ag.vim'
+Plug 'mattn/emmet-vim'
+
+Plug 'digitaltoad/vim-pug'
+Plug 'wavded/vim-stylus'
 
 "colorschemes
 Plug 'morhetz/gruvbox'
