@@ -18,8 +18,12 @@ Plug 'morhetz/gruvbox'
 call plug#end()
 
 set number
+
 set expandtab
 set tabstop=2
+set shiftwidh=2
+set smarttab
+set expandtab
 
 set hlsearch
 set incsearch
