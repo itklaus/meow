@@ -33,7 +33,10 @@ set tabstop=2
 retab
 set shiftwidth=2
 
-"config plug
+"NERD and easymotion
 map <C-n> :NERDTreeToggle<CR>
 map <Leader> <Plug>(easymotion-prefix)
+
+"ctrp
+let g:ctrlp_show_hidden = 1
 
